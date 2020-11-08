@@ -9,4 +9,7 @@ public class IntToSymb {
         System.out.println(ch);
 
     }
+
+    public IntToSymb() {
+    }
 }
